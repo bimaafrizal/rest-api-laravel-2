@@ -12,7 +12,7 @@ class TokenController extends Controller
     public function make()
     {
         $credentials = [
-            'email' => 'admin@gmail.com',
+            'email' => 'admin2@gmail.com',
             'password' => 'password'
         ];
 
